@@ -19,18 +19,18 @@ The dataset used in this project contains a comprehensive set of features relate
 
 ## Features 
 
-person_age: Age of the borrower.
-person_income: Annual income of the borrower.
-person_home_ownership: Type of home ownership (e.g., rent, mortgage, own).
-person_emp_length: Employment length in years.
-loan_intent: Purpose of the loan (e.g., education, medical, venture).
-loan_grade: Loan grade assigned by the lender.
-loan_amnt: Loan amount requested.
-loan_int_rate: Interest rate on the loan.
-loan_status: Loan status (0: Repaid on time, 1: Defaulted).
-loan_percent_income: Percentage of income dedicated to servicing the loan.
-cb_person_default_on_file: Historical default status of the borrower.
-cb_person_cred_hist_length: Length of the credit history in years.
+1. person_age: Age of the borrower.
+2. person_income: Annual income of the borrower.
+3. person_home_ownership: Type of home ownership (e.g., rent, mortgage, own).
+4. person_emp_length: Employment length in years.
+5. loan_intent: Purpose of the loan (e.g., education, medical, venture).
+6. loan_grade: Loan grade assigned by the lender.
+7. loan_amnt: Loan amount requested.
+8. loan_int_rate: Interest rate on the loan.
+9. loan_status: Loan status (0: Repaid on time, 1: Defaulted).
+10. loan_percent_income: Percentage of income dedicated to servicing the loan.
+11. cb_person_default_on_file: Historical default status of the borrower.
+12. cb_person_cred_hist_length: Length of the credit history in years.
 
 ## MODELS
 
