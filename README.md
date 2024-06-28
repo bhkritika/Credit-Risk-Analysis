@@ -1,4 +1,4 @@
-# CRIME RISK ANALYSIS
+# CREDIT RISK ANALYSIS
 
 An advanced credit risk analysis project using machine learning models to predict credit default.
 ## OBJECTIVE
